@@ -1,0 +1,19 @@
+{
+  "name": "coffeemachine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IqbalSalim/coffeemachine.git"
+  },
+  "author": "Iqbal Salim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IqbalSalim/coffeemachine/issues"
+  },
+  "homepage": "https://github.com/IqbalSalim/coffeemachine#readme"
+}
